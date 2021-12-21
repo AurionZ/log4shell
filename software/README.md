@@ -2566,7 +2566,6 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | PDQ | PDQ Deploy | All versions |  | Investigation |  | | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
 | PDQ | PDQ Inventory | All versions |  | Investigation |  | | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
 | Pega | Pega Platform | 7.3.x - 8.6.x | Not vuln | Fix |  | | Hotfixes made available for registered customers by Pega. When using Stream nodes, the embedded Kafka instances require a separate hotfix to be installed. | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
-| Personio | All | Unknown |  | Fix | Investigation | | | [source](https://status.personio.de/incidents/kn4c6mf6lpdv) |
 | Pexip | Endpoint Activation | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Eptools | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Infinity | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
@@ -2576,6 +2575,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Pexip | Pexip Service | all | Not vuln | Fix |  | | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Reverse Proxy and TURN Server | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | VMR self-service portal | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
+| Philips | HealthSuite Marketplace | 1.2 |  | Fix |  | | Philips hosting environment has deployed a patch. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | IntelliBridge Enterprise | B.13 and B.15 |  | Vulnerable |  | | Software only products with customer owned Operating Systems. For products solutions where the server was provided it is customer responsibility to validate and deploy patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | IntelliSite Pathology Solution 5.1 | L1 |  | Vulnerable |  | | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | IntelliSpace PACS | | Not vuln | Workaround |  | | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
